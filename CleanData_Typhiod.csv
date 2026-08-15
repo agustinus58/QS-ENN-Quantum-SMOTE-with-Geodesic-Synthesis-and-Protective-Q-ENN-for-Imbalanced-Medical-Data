@@ -1,0 +1,1065 @@
+Age,Gender,Blood Group,ESR,WBC Count,Widal Test,Blood Culture,Final Output,Outcome
+52.0,Male,A+,increase,3364.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+17.0,Female,B+,increase,3630.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Male,O+,increase,3109.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,AB+,increase,2475.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Female,A+,increase,2988.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,B+,increase,3220.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,A+,increase,3240.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Female,AB+,increase,2681.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+18.0,Male,A+,increase,3118.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,O+,increase,3790.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+20.0,Female,B+,increase,3170.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+16.0,Male,AB+,increase,4000.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,A+,increase,3549.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,B+,increase,3792.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,AB+,increase,3285.0,"TO =1:280dil, TH =1: 280dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,O+,increase,2392.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+62.0,Female,B+,increase,3567.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Male,AB+,increase,2462.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,B+   ,increase,3788.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Female,B+   ,increase,2899.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+14.0,Male,O+   ,decrease,4077.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+11.0,Female,B+   ,decrease,7740.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Male,B+   ,increase,2728.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,AB+  ,decrease,9034.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Male,A+   ,increase,3555.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Female,O+   ,decrease,8758.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Male,B+   ,increase,3347.0,"TO =1:320dil, TH =1:320dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,O+   ,increase,2672.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+23.0,Female,B+   ,decrease,10682.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+33.0,Male,B+   ,decrease,9467.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Female,O+   ,decrease,8445.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Female,B+   ,decrease,10845.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+24.0,Male,B+   ,decrease,10317.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Male,AB+  ,increase,3306.0,"TO =1:220dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Female,AB+  ,decrease,7946.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+20.0,Male,B+   ,increase,2710.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,AB+  ,decrease,6966.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+13.0,Female,AB+  ,increase,4573.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Male,O+   ,decrease,10394.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Female,B+,increase,2576.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+13.0,Male,O+,decrease,9873.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+46.0,Female,AB+  ,decrease,10476.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Male,O+   ,decrease,10923.0,"TO =1:80dil, TH =1:80dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,A+   ,decrease,10710.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Female,AB+  ,decrease,10511.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,AB+  ,increase,3692.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,AB+  ,decrease,9891.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Male,AB+  ,increase,2534.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+22.0,Female,  AB+  ,increase,3333.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,O+   ,increase,3243.0,"TO =1:220dil, TH =1: 220dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Male,AB+  ,increase,2899.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+10.0,Female,B+  ,increase,4882.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Female,O+   ,increase,3002.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Male,A+   ,increase,2304.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Female,AB+  ,increase,2490.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Male,AB+  ,increase,3600.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,AB+  ,increase,3520.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,AB+  ,decrease,9710.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Male,AB+  ,decrease,10466.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Female,A+,decrease,10670.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Male,A- ,increase,2487.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Male,O+   ,decrease,10471.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+24.0,Female,O+   ,increase,2774.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+21.0,Male,AB+  ,decrease,10570.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Female,A+   ,increase,3922.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Male,O+   ,decrease,9749.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Male, B+,increase,3444.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,O+   ,increase,2510.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,O+   ,decrease,7922.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Female,O+   ,decrease,5735.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Female,O+   ,decrease,7124.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Male,B+   ,decrease,10249.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Male,A+   ,increase,3613.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Male,A+   ,decrease,10360.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Female,A+   ,increase,3641.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,O+   ,decrease,10687.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+11.0,Female,B+   ,increase,4688.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,O+   ,decrease,10642.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Male,O+   ,increase,3799.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Male,O-,decrease,8448.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+13.0,Male,O+   ,increase,4476.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,B+   ,decrease,9200.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Female,A+   ,increase,4668.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,A+   ,decrease,10815.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+41.0,Male,A+,increase,3531.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Female,B+   ,decrease,7115.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,O+   ,increase,2527.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,B+   ,decrease,8315.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Male,AB+  ,increase,3650.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+72.0,Male,O+   ,decrease,9494.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+62.0,Female,B+   ,increase,3761.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Male,B+   ,decrease,10369.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+26.0,Female,A+   ,decrease,10581.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,B+   ,decrease,9916.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Male,A+   ,increase,3620.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Female,A+   ,increase,2657.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Male,A+   ,increase,2517.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Female,O+   ,increase,2555.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Male,O+   ,increase,2697.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Female,O+   ,increase,2599.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,B+   ,increase,3111.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,B+   ,increase,2611.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Female,A+   ,increase,3667.0,"TO =1:260dil, TH =1:260dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,B+   ,increase,3302.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,A+   ,increase,2268.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,A+   ,increase,3612.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Female,A+   ,increase,3742.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,O+   ,increase,2306.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,O+   ,increase,3232.0,"TO =1:160dil, TH =1:160dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,O+   ,increase,3473.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Male,O+,increase,3642.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+22.0,Male,A+,increase,2222.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Female,O+,decrease,10351.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Female,AB+,decrease,9247.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+30.0,Male,O+,decrease,8774.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.5,Female,B+,decrease,9866.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+67.0,Male,O+,increase,3635.0,"TO =1:180dil, TH =1:180dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,AB+,decrease,10277.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Female,A+,increase,2444.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,O+,decrease,10556.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Female,A+,increase,3056.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,AB+,decrease,10361.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+66.0,Female,A+   ,increase,2719.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,A+   ,decrease,17755.875,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+72.0,Male,A+   ,increase,2353.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,A+   ,decrease,9527.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+59.0,Female,B+   ,increase,2921.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Male,A+   ,decrease,10486.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Male,A+,increase,3981.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,A+  ,decrease,10778.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,A+   ,increase,3524.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Male,O+   ,decrease,7926.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Female,A+,increase,3510.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Female,A+   ,increase,2842.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,O+   ,increase,2363.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Female,A+   ,increase,3427.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,O+   ,decrease,8617.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,A+   ,increase,3878.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,A+   ,decrease,9325.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Female,A+   ,increase,3524.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Male,A+   ,decrease,10515.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+30.0,Female,O+   ,increase,3955.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,A+   ,increase,2296.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male, A+   ,increase,3372.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Male,O+   ,increase,2601.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,A+   ,increase,3159.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,O+   ,increase,2597.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,O+,increase,2394.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Male,B+,increase,3219.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,O+,increase,2504.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Female,A+,increase,3664.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,O+,increase,3247.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Female,AB+,increase,3206.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Male,A+,increase,3009.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,B+,increase,2320.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Female,O+,increase,2418.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Male,B+,increase,3865.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Female,O+,increase,2870.0,"TO =1:260dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,AB+,increase,2271.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Female,A+,increase,2488.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Male,AB+,increase,2769.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,A+,decrease,7732.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Female,AB+,decrease,9331.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Male,A+,decrease,7277.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Female,B+,increase,2932.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,A+,decrease,9632.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+33.0,Male,O+,increase,2869.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,A+,decrease,7281.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Male,AB+,increase,3091.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,AB+,decrease,5673.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+34.0,Male,A+,decrease,8257.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Female,A+,decrease,17755.875,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Male,A+,increase,3517.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Female,A+,decrease,8900.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Female,B+,increase,2526.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,O+   ,decrease,7653.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+30.0,Male,A+   ,increase,2535.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Female,O+   ,decrease,7082.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Female,O+   ,increase,2266.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,B+   ,decrease,10437.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Male,O+   ,increase,3280.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Female,B+   ,decrease,10581.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Male,B+   ,increase,3464.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,B+   ,decrease,10233.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+41.0,Female,A+,increase,3714.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,O+   ,decrease,9918.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+30.0,Male,A+   ,increase,2579.0,"TO =1:160dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Female,O+   ,decrease,9164.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Female,O+   ,decrease,9559.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+47.0,Female,B+   ,decrease,10325.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Male,O+   ,decrease,10388.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,B+   ,increase,3393.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Female,B+   ,decrease,10735.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Female,B+   ,increase,2840.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,A+   ,increase,3816.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,O+,increase,2326.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Female,A+,increase,3769.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,B+,increase,3995.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,B+,increase,3577.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Female,AB+,decrease,10080.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,A+,increase,3973.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Male,B+,decrease,7544.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Female,AB+,increase,3157.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+74.0,Male,AB+,decrease,10708.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,B+,increase,3301.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Female,O+,decrease,10512.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Female,O+,increase,2485.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,A+,increase,3213.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,O+,increase,3748.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,A+,increase,3627.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Male,B+,increase,2618.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,O+,increase,2864.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Female,B+,increase,3479.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,O+,increase,3602.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Male,O+,decrease,10151.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,AB+,increase,3544.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Female,O+,decrease,8365.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Male,AB+,decrease,6338.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Male,O+,decrease,10465.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Female,O+,decrease,10423.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Female,O+,increase,3994.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,AB+,decrease,10778.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Female,B+,increase,3628.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+54.0,Male,A+,decrease,6415.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Male,AB+,increase,3057.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Female,B+,decrease,9290.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+46.0,Female,A+,increase,2767.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Male,AB+,decrease,8821.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+64.0,Female,B+,increase,3257.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+75.0,Male,B+,decrease,6333.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Male,B+,increase,3696.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Female,O+,decrease,10349.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,A+,increase,3360.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,AB+,decrease,9975.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Female,O+,increase,3762.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+77.0,Male,AB+,increase,2961.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+73.0,Male,A+,increase,3608.0,"TO =1:160dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+82.0,Female,O+,increase,2760.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Male,O+,increase,2346.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,AB+,increase,3476.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,A+,increase,2829.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+83.0,Male,O+,increase,2252.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+74.0,Female,A+,increase,3568.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Male,O+,increase,3172.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+69.0,Female,AB+,increase,3356.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Male,O+,increase,2835.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Female,B+,increase,3618.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Male,O+,increase,2653.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+79.0,Male,AB+,increase,2263.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Female,O+,increase,2208.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+76.0,Male,O+,increase,2542.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,AB+,increase,3740.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Female,B+,decrease,9100.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+72.0,Male,B+,decrease,9208.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Male,A+,decrease,9558.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Female,AB+,decrease,9959.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Male,A+,decrease,10506.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+76.0,Male,O+,increase,3405.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+79.0,Female,AB+,decrease,10248.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Male,AB+,increase,3329.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Female,B+,decrease,10888.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,O+,decrease,10984.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+77.0,Female,O+,decrease,9273.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+69.0,Male,AB+,decrease,10867.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+71.0,Male,B+,decrease,10490.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+60.0,Female,O+,increase,3240.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Female,A+,decrease,10975.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+74.0,Male,O+,increase,3741.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,A+,decrease,9731.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Female,O+,increase,2993.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Male,AB+,decrease,8096.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+76.0,Male,AB+,increase,2516.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Female,B+,decrease,9580.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+67.0,Female,O+,increase,2555.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Male,A+,decrease,8611.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+75.0,Female,AB+,increase,3920.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,B+,decrease,7484.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+77.0,Female,O+,decrease,5616.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+59.0,Male,A+,decrease,10304.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+64.0,Female,O+,decrease,7034.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,O+,decrease,7257.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,AB+,increase,3711.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,B+,decrease,6696.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+73.0,Female,AB+,increase,2809.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,B+,decrease,8408.0,"TO =1:20dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+76.0,Female,AB+,increase,3364.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,A+,decrease,8519.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+71.0,Male,B+,increase,2896.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,B+,increase,2922.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Male,AB+,increase,3558.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,A+,increase,2877.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Female,A+,increase,2211.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,O+,increase,2937.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,AB+,increase,3026.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Male,B+,increase,2238.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+70.0,Female,B+,increase,3444.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+80.0,Male,B+   ,increase,3960.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+71.0,Female,O+   ,increase,2250.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+74.0,Male,A+   ,increase,3538.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Male,AB+  ,increase,3716.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Female,B+   ,increase,2991.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Male,A+   ,decrease,6277.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+72.0,Male,O+   ,increase,2917.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Female,A+   ,increase,3170.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Female,A+   ,increase,3381.0,"TO =1:160dil, TH =1:160dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,O+   ,decrease,3887.0,"TO =1:60dil, TH =1: 60dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+78.0,Male,O+,increase,3827.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,AB+,decrease,10624.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+69.0,Male,A+,increase,2664.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+79.0,Male,AB+,decrease,9687.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+77.0,Female,A+,decrease,2275.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+68.0,Female,A+,decrease,10032.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+59.0,Male,O+,decrease,10001.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+70.0,Male,A+,decrease,9825.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+74.0,Female,B+,decrease,6255.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Female,AB+,increase,3310.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,A+,increase,3599.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Female,O+,increase,2835.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Male,A+,increase,3309.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+78.0,Female,AB+,increase,2693.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+81.0,Male,B+,increase,2653.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,A+,decrease,7620.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+67.0,Male,A+,increase,3841.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,AB+,increase,2340.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+72.0,Female,O+,decrease,6824.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+80.0,Male,B+,increase,3422.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,AB+,decrease,10388.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+79.0,Female,A+,decrease,10588.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+74.0,Male,O+,decrease,10771.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Female,O+,increase,3124.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Male,O+,decrease,10155.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+76.0,Male,AB+,increase,2597.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Female,B+,decrease,10950.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Female,AB+,increase,3870.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+69.0,Male,A+,decrease,10664.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+73.0,Male,O+,decrease,10618.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Female,O+,decrease,10202.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Female,A+,decrease,10321.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Female,O+,increase,3633.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Female,AB+,increase,3254.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+77.0,Male,O+,increase,2341.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+80.0,Female,O+,increase,3570.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Male,A+,increase,3370.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,AB+,increase,2953.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Female,B+,increase,2464.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,O+,increase,2300.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Male,A+,increase,2742.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+73.0,Female,B+,increase,3535.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Female,O+,increase,3893.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Male,A+,increase,2628.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,B+,increase,3864.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+76.0,Female,AB+,increase,3252.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+80.0,Male,B+,increase,3842.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Male,O+,increase,2281.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,B+,increase,3793.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Female,AB+,increase,2258.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,B+,increase,2501.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+72.0,Male,B+,decrease,9889.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,A+,decrease,9204.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Female,AB+,decrease,6271.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+70.0,Female,B+,decrease,6582.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+67.0,Female,AB+,decrease,10333.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Female,B+   ,increase,2936.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,AB+,decrease,10535.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+82.0,Female,B+   ,increase,2713.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Male,O+,decrease,10244.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Male,O+,increase,3057.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,B+   ,decrease,10669.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+64.0,Male,B+,increase,2756.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,A+,decrease,10508.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+78.0,Female,B+   ,increase,3350.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Female,AB+,decrease,10312.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Male,A+,increase,3939.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,AB+,decrease,10544.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+66.0,Female,O+   ,increase,2510.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,B+   ,decrease,10423.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Male,AB+,increase,3761.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Male,O+,decrease,10111.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+69.0,Female,B+,decrease,10777.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+80.0,Female,AB+,decrease,6908.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Female,A+   ,increase,3486.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Female,A+   ,increase,2217.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+70.0,Male,O+   ,increase,3230.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Female,O+   ,increase,2500.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,B+   ,increase,3053.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,A+   ,increase,2728.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Female,A+   ,increase,3156.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Male,A+   ,decrease,6999.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+75.0,Male,O+   ,decrease,6598.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+68.0,Male,A+   ,decrease,8457.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+79.0,Male,O+   ,increase,3088.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,A+   ,decrease,8697.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+60.0,Female,B+   ,decrease,6523.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+70.0,Male,B+   ,increase,2842.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Male,B+   ,increase,3881.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Female,A+   ,increase,3150.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+71.0,Female,B+   ,increase,3299.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Male,B+   ,increase,3403.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,O+   ,decrease,10747.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,A+,decrease,6278.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+64.0,Female,O+   ,decrease,10838.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+72.0,Male,A+   ,decrease,7684.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+76.0,Male,B+   ,decrease,6615.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Female,B+   ,increase,2575.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Female,B+   ,decrease,10561.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+77.0,Male,A+   ,increase,2372.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,B+   ,increase,2999.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Female,B+  ,increase,3864.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,O+,increase,2868.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,AB+,decrease,10010.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Male,B+,increase,3631.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+80.0,Female,AB+,decrease,10287.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+82.0,Female,A+,increase,2937.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+62.0,Male,B+,decrease,9913.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Male,AB+,decrease,6180.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+75.0,Female,O+,decrease,6206.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+66.0,Female,O+,decrease,9884.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,AB+,decrease,9750.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+78.0,Female,O+,decrease,10940.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+67.0,Male,O+,increase,3115.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,A+,increase,2425.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Female,AB+,increase,2813.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Male,A+,increase,2972.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,B+,increase,3078.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+76.0,Female,AB+,increase,2655.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,AB+,increase,3693.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Male,A+,decrease,10536.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Male,B+,decrease,6468.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Female,AB+,decrease,6925.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+66.0,Male,O+,decrease,9713.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+78.0,Male,O+,increase,3953.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,B+,increase,2308.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,B+,increase,2558.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Female,AB+,increase,3195.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Male,B+,increase,2364.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Male,AB+,increase,3046.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+75.0,Female,O+,increase,2892.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Female,O+,increase,2662.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,AB+,increase,2244.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Female,O+,increase,2438.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Male,AB+,increase,3813.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+74.0,Male,B+,increase,2816.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Female,A+,increase,2419.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Male,A+,increase,2643.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+75.0,Child,O+,increase,3894.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Female,AB+,increase,2694.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Female,AB+,increase,3218.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+78.0,Male,A+,increase,3644.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,O+,increase,2721.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,O+,decrease,10966.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+79.0,Male,A+,decrease,10516.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Male,AB+,decrease,6245.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+59.0,Male,AB+,decrease,6960.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+85.0,Female,A+,increase,2957.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,AB+,decrease,9869.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Female,AB+,increase,2916.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Female,A+,decrease,9629.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Male,AB+,decrease,6220.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Female,A+,decrease,10889.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,B+,decrease,3737.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,A+,increase,3015.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Female,B+   ,increase,2693.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+70.0,Male,AB+,increase,3764.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,AB+,increase,3193.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Female,B+,increase,2627.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,B+   ,increase,3880.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,O+,increase,2641.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+72.0,Male,O+,increase,2285.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,O+   ,increase,3998.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Male,B+   ,decrease,10796.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+71.0,Male,O+   ,decrease,10842.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Male,A+   ,decrease,10861.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Male,  A+   ,increase,2211.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+70.0,Female,AB+  ,decrease,10921.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Female,A+   ,decrease,6435.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+25.0,Female,O+   ,increase,2993.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Female,B+   ,decrease,7716.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+60.0,Male,O+   ,decrease,6514.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+46.0,Female,A+,decrease,6945.0,"TO =1:60dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Male,AB+,decrease,9773.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+34.0,Male,AB+,increase,3755.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,B+,decrease,8873.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Male,O+,increase,3360.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Male,B+,decrease,9732.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+69.0,Female,O+,increase,3285.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Male,A+,decrease,8292.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Male,O+   ,increase,2858.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Female,A+,decrease,10495.0,"TO =1:80dil, TH =1: 80dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Female,AB+,decrease,2264.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Male,AB+,decrease,8003.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Female,B+,increase,3784.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Female,O+,decrease,9426.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,O+,increase,2521.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Female,A+,decrease,9434.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,O+,increase,3494.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,A+,decrease,9570.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+67.0,Female,A+,increase,3417.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,B+,decrease,10714.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Male,AB+,increase,2507.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+66.0,Female,B+,increase,3210.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Female,B+,decrease,9670.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Male,B+,increase,2647.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Male,O+,increase,3542.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Female,AB+,increase,3809.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,AB+,increase,3181.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,O+,increase,2399.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,B+,decrease,9789.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Female,O+,decrease,6088.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Female,AB+,increase,2326.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Male,AB+,decrease,10565.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Male,A+,increase,3383.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+62.0,Female,O+,decrease,6276.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Female,O+,increase,3717.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Male,AB+,decrease,10410.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+63.0,Female,A+,decrease,10511.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Male,AB+,decrease,9250.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Male,A+,increase,8202.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Male,AB+,decrease,2915.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,O+,decrease,10767.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,B+,increase,2682.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+65.0,Male,O+,decrease,9656.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+69.0,Female,AB+,increase,2885.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,A+,increase,3748.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Female,O+,increase,3340.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Male,O+,increase,3104.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Female,A+,increase,2444.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,AB+,increase,3070.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Female,O+,increase,3461.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,AB+,decrease,10537.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+70.0,Female,AB+,decrease,9434.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Male,B+,decrease,10110.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Female,A+,decrease,10451.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Male,A+,decrease,9815.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Female,AB+,increase,2644.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,A+,decrease,10246.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Female,AB+,increase,2379.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,O+,decrease,9904.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Male,O+,increase,2505.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,A+,decrease,10414.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Female,AB+,increase,3433.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,A+,decrease,9387.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,AB+,increase,3485.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Male,O+,decrease,9947.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,B+,increase,3239.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,B+,increase,2229.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Female,O+,decrease,8333.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Female,A+,increase,2731.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,AB+,decrease,7339.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+66.0,Female,AB+,decrease,10545.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Female,O+,increase,3618.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+54.0,Female,B+,decrease,10338.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Female,AB+,increase,3486.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+54.0,Male,O+,decrease,9705.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+66.0,Female,A+,decrease,8379.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+25.0,Female,O+,increase,2842.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,A+,decrease,10002.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Female,B+,decrease,9326.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+69.0,Male,A+,increase,3815.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,A+,decrease,9411.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Female,AB+,increase,3899.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Female,B+,increase,2889.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Female,O+,increase,2597.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Male,A+,increase,2350.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Female,AB+,increase,2918.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Female,O+,increase,3878.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,A+,increase,3632.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,O+,increase,2514.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Female,B+,increase,3548.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,B+,increase,3411.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Male,AB+,increase,2449.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Male,AB+,increase,2923.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,A+,increase,3615.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+67.0,Male,O+,increase,2746.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,O+,increase,3227.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+68.0,Male,A+,increase,3287.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,AB+,increase,3905.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Male,AB+,increase,3842.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,AB+,increase,2339.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Male,A+,increase,2545.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Male,A+,increase,2686.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Female,B+,increase,3699.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Male,O+,increase,3003.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Female,A+,decrease,9920.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Male,A+,decrease,10572.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Male,O+,decrease,9629.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Male,O+,increase,3883.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+16.0,Male,A+,increase,4573.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Male,AB+,decrease,10640.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+60.0,Female,AB+,decrease,9637.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,AB+,decrease,8415.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Female,O+,decrease,9702.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Female,A+,increase,2343.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,AB+,decrease,9564.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+24.0,Male,A+,increase,3556.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+17.0,Male,,decrease,9831.0,"TO =1:60dil, TH =1:6 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+41.0,Male,O+,increase,2512.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+10.0,Male,O+,decrease,8276.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Male,O+,increase,2764.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Female,O+   ,decrease,8481.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+17.0,Female,AB+,increase,4288.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+12.0,Female,O+   ,increase,4432.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Female,O+   ,increase,2386.0,"TO =1:160dil, TH =1:160dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+23.0,Female,B+   ,increase,2363.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,B+   ,decrease,7972.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Female,A+   ,decrease,6361.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Female,B+   ,decrease,8991.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Female,A+,decrease,9777.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+15.0,Male,B+,decrease,7924.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Male,A+   ,increase,2555.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Male,O+   ,increase,2616.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,O+   ,increase,3426.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Male,B+   ,increase,2872.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,B+   ,increase,2686.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Male,A+   ,increase,2851.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,O+   ,increase,2343.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+13.0,Female,B+   ,increase,4975.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Female,A+   ,increase,3578.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Female,B+   ,decrease,8870.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,A+   ,decrease,9415.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Female,O+,increase,3884.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,A+,decrease,10162.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,O+,increase,3917.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,O+,decrease,10170.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+12.0,Male,AB+,increase,3719.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,AB+,decrease,10250.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,O+,decrease,9138.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Male,O+,decrease,9290.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Male,AB+,decrease,7247.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Male,A+,decrease,10068.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Female,AB+,increase,3183.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,AB+,increase,2838.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Female,B+,increase,2591.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+54.0,Female,O+,increase,3910.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+23.0,Male,O+,increase,2290.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,AB+,increase,3176.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Male,B+,decrease,10786.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Female,AB+,decrease,9654.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+33.0,Female,B+,decrease,9653.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Female,A+,decrease,6112.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Male,A+,decrease,7132.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+26.0,Male,B+,increase,3252.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Female,AB+,decrease,8181.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+30.0,Female,B+,increase,3021.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,AB+,decrease,9905.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Female,AB+,increase,2934.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,O+,decrease,10923.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Male,A+,increase,2713.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+11.0,Male,O+,decrease,6110.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Male,O+,increase,4001.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Male,B+,decrease,10409.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+10.0,Female,AB+,increase,2407.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Female,A+,decrease,9206.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Female,A+,increase,2623.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+12.0,Female,AB+,decrease,9758.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Female,A+,increase,3666.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,AB+,decrease,5693.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,A+,increase,3618.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Female,O+,decrease,5919.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,AB+,increase,3421.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Male,O+,decrease,6432.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Female,AB+,increase,3076.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Male,AB+,decrease,8346.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Male,O+,decrease,10349.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,B+,decrease,9866.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Female,O+,decrease,9933.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Female,AB+,decrease,7470.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+24.0,Female,O+,decrease,9358.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Female,B+,decrease,9001.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Female,B+,increase,2463.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+22.0,Female,O+,increase,2902.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,     Male,AB+,increase,3873.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,O+,increase,2452.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,AB+,increase,3195.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+11.0,Male,AB+,decrease,7833.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Male,A+,decrease,9421.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Female,O+,decrease,7223.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+14.0,Female,AB+,increase,2212.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+17.0,Female,AB+,decrease,9428.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+10.0,Female,O+,increase,3962.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,B+,decrease,9791.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+57.0,Male,B+,increase,3835.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,O+,decrease,7533.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Male,A+,increase,2233.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Female,B+,decrease,6254.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Male,AB+,increase,3144.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,B+,decrease,9987.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Female,O+,increase,2959.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Male,O+,decrease,7863.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+47.0,Male,B+,increase,3391.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Female,AB+,decrease,9334.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+34.0,Female,O+,increase,2807.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,AB+,decrease,6971.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Male,A+,increase,2984.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,B+,decrease,10593.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Female,B+,increase,2332.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Female,A+,decrease,9718.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,AB+,increase,3616.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Female,A+,increase,2245.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,B+,decrease,8339.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,O+,increase,3158.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,O+,increase,3042.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Female,AB+,decrease,9702.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,O+,decrease,10006.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Male,B+,decrease,9949.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+47.0,Female,AB+,decrease,8213.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Female,B+,decrease,7722.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+20.0,Male,A+,decrease,6876.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Male,AB+,decrease,7790.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,A+,decrease,8572.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Male,O+,decrease,9717.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Male,A+,decrease,8836.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Female,O+,decrease,8472.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Male,B+,decrease,9937.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+15.0,Male,AB+,decrease,7897.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Female,B+,decrease,8848.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Female,A+,increase,2277.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,AB+,decrease,9983.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+22.0,Male,AB+,increase,3199.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Female,B+,decrease,7334.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Male,AB+,decrease,8254.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+19.0,Male,O+,decrease,7110.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+62.0,Male,B+,increase,2936.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Female,AB+,decrease,9277.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+11.0,Female,O+,decrease,7463.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+30.0,Male,O+,decrease,8527.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Female,O+,decrease,9614.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Female,B+,increase,2871.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+21.0,Male,AB+,decrease,10811.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+12.0,Female,A+,decrease,10842.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+59.0,Male,AB+,decrease,9627.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Male,A+,increase,3635.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Female,AB+,decrease,8694.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,A+,decrease,9778.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Male,AB+,decrease,8237.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Female,O+,increase,2886.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+18.0,Female,B+,decrease,7648.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Male,A-,increase,2909.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,B+,decrease,9735.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,O+,increase,3762.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+10.0,Male,AB+,decrease,8790.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,O+,increase,3553.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,B+,increase,3803.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+13.0,Female,A+,decrease,5549.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+33.0,Male,AB+,increase,3866.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+23.0,Male,B+,decrease,9773.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Female,AB+,increase,3129.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,A+,decrease,7845.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+47.0,Male,AB+,increase,3783.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Female,O+,decrease,7558.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Male,O+,increase,2598.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Male,O+,decrease,8342.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+14.0,Female,B+,decrease,4846.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Male,A+,decrease,4568.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Male,B+,decrease,5583.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Female,A+,decrease,6742.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+22.0,Female,AB+,decrease,9819.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+46.0,Male,O+,decrease,7229.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Male,AB+,increase,3344.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+54.0,Female,AB+,decrease,9399.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Male,O+,increase,3356.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,O+,decrease,8834.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Male,A+,decrease,3937.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+15.0,Male,O+,increase,4269.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Female,AB+,increase,2308.0,"TO =1:240dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+13.0,Female,B+,increase,4396.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,A+,increase,2397.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Male,A+  ,increase,2992.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+20.0,Female,AB+,increase,3066.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,AB+,increase,3418.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Male,B+,increase,3835.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,A+   ,increase,2558.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+12.0,Male,  A+   ,increase,4852.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+10.0,Male,AB+,increase,4524.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Female,AB+,increase,2843.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,B+,decrease,9581.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,AB+,increase,2345.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Female,B+,decrease,8906.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+33.0,Female,B+,increase,3404.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Male,O+,decrease,7296.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Male,B+,increase,3912.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+17.0,Female,B+,increase,4303.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Male,O+,increase,2226.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,AB+,increase,3109.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Male,AB+,decrease,9606.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+15.0,Female,A+,increase,4345.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,AB+,decrease,7965.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Male,O+,increase,2206.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Male,A+,decrease,6765.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Female,AB+,increase,3104.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,A+,decrease,7347.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Female,B+,increase,4016.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Male,AB+,increase,2885.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+11.0,Male,AB+,increase,4775.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Female,AB+,increase,3608.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,AB+,increase,3264.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,O+,decrease,9773.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Female,AB+,increase,2422.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,B+,increase,2346.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,O+,decrease,9711.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+62.0,Male,B+,decrease,6291.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+14.0,Female,AB+,decrease,8956.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Female,B+,decrease,8629.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,A+,increase,3988.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Male,B+,decrease,9124.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+44.0,Female,O+,increase,3042.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+35.0,Female,A+,increase,3049.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Male,O+,decrease,8488.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+25.0,Female,O+,increase,3630.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,AB+,decrease,7720.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+60.0,Male,A+,decrease,10587.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Female,A+,decrease,8181.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+51.0,Male,AB+,decrease,9929.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Male,A+,decrease,2618.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Female,B+,decrease,9986.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Male,A+,increase,3953.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Male,B+,decrease,6602.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+17.0,Female,O+,increase,4157.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Female,A+,decrease,9382.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Male,A+   ,increase,3787.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,AB+  ,increase,3834.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Male,B+   ,decrease,3069.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Male,O+,increase,2985.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,AB+,increase,2400.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,AB+,increase,3972.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Female,A+,increase,3188.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Female,B+   ,increase,2459.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,O+,increase,3395.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Female,O+,increase,2428.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,O+,increase,3795.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+16.0,Male,A+   ,decrease,4669.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+24.0,Female,B+   ,decrease,7403.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+62.0,Male,B+   ,decrease,9881.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Male,A+   ,decrease,10799.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Female,AB+  ,increase,2806.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+20.0,Female,AB+,decrease,10062.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,AB+,increase,2808.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Female,B+,decrease,9494.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+22.0,Male,AB+,increase,2338.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Male,O+,increase,3702.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+38.0,Male,B+,increase,3737.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Female,AB+,increase,3057.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,A+,increase,2928.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+15.0,Female,B+,increase,4292.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Female,AB+,increase,2482.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Male,A+,increase,3751.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Female,O+,increase,2684.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Male,O+,increase,3478.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,AB+,increase,3971.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,O+   ,increase,3578.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,A+   ,decrease,7651.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Male,B+   ,decrease,9206.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,O-   ,decrease,7209.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Female,A+   ,increase,3289.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Male,A+   ,decrease,7599.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+47.0,Male,B+   ,increase,3010.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+18.0,Female,B+   ,decrease,8249.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,A+   ,increase,3808.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,Female,AB+  ,decrease,7972.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+36.0,Male,O+,increase,2631.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Male,AB+,decrease,9328.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+63.0,Female,A+,increase,2446.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+22.0,Female,B+,decrease,9853.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Male,A+   ,increase,3175.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+20.0,Male,B+,decrease,7426.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Female,O+,increase,2223.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Female,AB+,decrease,10746.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+17.0,Male,O+,decrease,10577.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+53.0,Female,AB+,decrease,9398.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Male,O+,decrease,9996.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+49.0,Male,AB+,increase,3428.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Female,O+,decrease,7595.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+25.0,Male,O+,increase,3911.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,male,B+,decrease,9884.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Female,O+,decrease,5342.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Female,A+,decrease,9442.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+27.0,Male,B+,increase,2886.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,AB+,decrease,8363.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+41.0,Male,AB+,decrease,9884.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,A+,increase,2892.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,AB+,decrease,7610.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Male,O+,increase,2862.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Male,A+,decrease,10873.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Female,O+,decrease,9899.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Female,A+,decrease,8433.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Male,O+,decrease,9531.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Female,A+,decrease,7747.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Male,O+,decrease,9572.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Male,AB+,increase,2894.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+21.0,Male,AB+,increase,3572.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+62.0,Female,AB+,increase,2766.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+15.0,Female,A+,increase,4777.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+48.0,Male,B+,increase,3987.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Male,O+,increase,2287.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Female,AB+,increase,3962.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Female,O+,increase,2829.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Male,AB+,decrease,9419.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,AB+,decrease,8240.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+20.0,Female,O+,decrease,7810.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+64.0,Female,A+,increase,3992.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Male,B+,decrease,6870.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,AB+,increase,3044.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+52.0,Male,A+,decrease,7878.0,"TO =1:60dil, TH =1: 60dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+19.0,Male,A+,increase,2315.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,B+,decrease,8912.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Male,O+,increase,2803.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Male,AB+,decrease,9929.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+19.0,Female,O+,increase,3277.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Female,AB+,decrease,10255.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+23.0,Male,A+   ,increase,2244.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Male,AB+,decrease,8987.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Female,A+,increase,4810.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Male,AB+,decrease,9427.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,A+,increase,2209.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,B+,decrease,10913.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Female,O+,increase,3365.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Male,A+,decrease,7217.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Male,B+   ,decrease,9889.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+58.0,Female,O+   ,decrease,9838.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+21.0,Female,A+   ,decrease,8006.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Male,AB+,increase,3544.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,A+,decrease,7019.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+61.0,Male,B+   ,increase,3474.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Female,O+   ,decrease,6868.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Male,A+   ,increase,2334.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Female,AB+,decrease,9927.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+56.0,Male,A+,increase,2323.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Female,AB+,decrease,9285.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Female,A+,increase,3013.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+20.0,Male,B+,decrease,7498.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Male,O+,increase,3307.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Female,A+,decrease,5815.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+55.0,Male,AB+,increase,2915.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+22.0,Male,A+,decrease,5832.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Female,B+,increase,3464.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,O+,increase,3287.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+15.0,Female,AB+,increase,3123.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Female,AB+,increase,3419.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Male,AB+,increase,2592.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+41.0,Female,O+,increase,3803.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Male,B+   ,increase,3514.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,,increase,2547.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Female,AB+  ,decrease,6556.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Male,O+,decrease,9446.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Female,A+,decrease,8962.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,O+,decrease,10815.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Male,B+   ,increase,3349.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+17.0,Female,AB+  ,decrease,9979.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Female,O+   ,increase,2800.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+43.0,Male,O+   ,decrease,10796.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+62.0,Male,AB+,decrease,10957.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+34.0,Female,A+,increase,3871.0,"TO =1:320dil, TH =1:320dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Female,B+,decrease,9405.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+26.0,Male,A+,increase,3646.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Female,O+,increase,2592.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Male,AB+,increase,3473.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Female,B+,increase,3876.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Male,O+,increase,3921.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,B+   ,increase,3335.0,"TO =1:240dil, TH =1:240dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,AB+,decrease,9357.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+20.0,Male,AB+  ,decrease,7674.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Female,AB+  ,decrease,5905.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Female,AB+,decrease,6923.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+16.0,Female,B+   ,increase,4729.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Male,AB+  ,decrease,8830.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Male,O+   ,increase,3190.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,O+   ,increase,2544.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+23.0,Male,O+   ,increase,3057.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+46.0,Female,B+   ,increase,3354.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Male,B+   ,increase,3118.0,"TO =1:160dil, TH =1:160dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Female,O+   ,decrease,10900.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Female,O+   ,decrease,8365.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+33.0,Male,B+   ,decrease,7396.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Male,B+   ,increase,2678.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Female,AB+,decrease,9668.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+29.0,Male,AB+,increase,2985.0,"TO =1:240dil, TH =1:240dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+54.0,Male,B+   ,decrease,8667.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+25.0,Female,O+   ,increase,3688.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+15.0,Male,B+   ,decrease,5005.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+60.0,Female,B-,increase,3488.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+37.0,Female,B+   ,decrease,9694.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Male,O+,decrease,8825.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+41.0,Female,O+,increase,3067.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+24.0,Male,B+   ,decrease,7316.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+62.0,Male,B+   ,decrease,5186.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+19.0,Female,AB,increase,2517.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+39.0,Male,O+  ,increase,3943.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+51.0,Female,B+   ,increase,2757.0,"TO =1:240dil, TH =1:240 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Male,O+   ,increase,2625.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+17.0,Male,B+   ,increase,4788.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+63.0,Female,O+   ,increase,2358.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,O+,increase,2976.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+34.0,Male,O+  ,increase,2235.0,"TO =1:200dil, TH =1:200 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Male,B-,increase,3271.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Female,O+   ,decrease,3712.0,"TO =1:300dil, TH =1:300dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,B+   ,increase,2430.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+40.0,Female,B+,increase,2679.0,"TO =1:dil, TH =1: dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+21.0,Male,B+   ,decrease,5858.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Female,AB+,decrease,8823.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+59.0,Female,AB+,decrease,6911.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+18.0,Female,B-,decrease,8922.0,"TO =1:60dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,B+   ,increase,3891.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Male,O+   ,increase,3836.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+31.0,Male,A+   ,increase,3131.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+20.0,Female,A,increase,3676.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Male,A+   ,decrease,9723.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+34.0,Male,A,decrease,10145.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+17.0,Female,B+  ,decrease,7591.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+38.0,Female,B+   ,decrease,8439.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+28.0,Female,O+,decrease,9953.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+48.0,Female,O+   ,decrease,7384.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+31.0,Male,A+   ,decrease,8011.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+63.0,Male,A+   ,increase,2891.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+25.0,Male,O+   ,increase,3122.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+42.0,Male,B+   ,increase,3181.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Male,O+   ,increase,2661.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+50.0,Female,A+   ,increase,3340.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Female,O+   ,increase,3190.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+45.0,Female,B+   ,decrease,7278.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+24.0,Female,AB+,decrease,6287.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+54.0,Female,B+,decrease,9152.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+40.0,Male,B+   ,increase,2811.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+32.0,Male,AB+,decrease,7836.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+46.0,Female,B-,increase,3709.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+58.0,Male,B+,decrease,9445.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+22.0,Male,AB+,increase,3700.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+47.0,Female,B+,increase,3326.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+15.0,Male,O+,increase,2723.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+60.0,Male,AB+,increase,2426.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+36.0,Male,B+,increase,3411.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+26.0,Female,O+,decrease,7615.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+52.0,Female,AB+,decrease,8206.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+41.0,Female,B+,increase,2892.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+18.0,Female,O-,increase,3047.0,"TO =1:280dil, TH =1:280dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+33.0,Female,AB+,increase,2803.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+57.0,Female,AB+,increase,3018.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+29.0,     Male,A+,increase,3716.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+53.0,Male,AB+,increase,3445.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+21.0,Male,B+,increase,3187.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+44.0,Male,O+,decrease,9123.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+20.0,Male,AB+,decrease,7791.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+65.0,Female,A+,decrease,9401.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+39.0,Female,AB+,decrease,7130.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+35.0,Female,A+,decrease,6425.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+43.0,Female,B+,increase,2282.0,"TO =1:260dil, TH =1:260 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+56.0,Female,O+,increase,3232.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+23.0,Male,B+,increase,3438.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+64.0,Female,AB+,increase,2279.0,"TO =1:220dil, TH =1:220 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+30.0,Male,O+,increase,3886.0,"TO =1:160dil, TH =1:160 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+27.0,Female,A+,increase,3925.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+59.0,Male,B+,decrease,7967.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+37.0,Female,O+,increase,2775.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+55.0,Female,AB+,decrease,9907.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+34.0,Male,O+,increase,3507.0,"TO =1:280dil, TH =1:280 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+49.0,Female,A+,decrease,9637.0,"TO =1:40dil, TH =1:40 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+25.0,Female,AB+,increase,3042.0,"TO =1:320dil, TH =1:320 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+61.0,Male,AB+,decrease,7278.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+32.0,Female,B+,decrease,8472.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+47.0,Male,A+,decrease,6438.0,"TO =1:20dil, TH =1:20 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+15.0,Male,O-,decrease,8535.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+50.0,Female,B+,decrease,8628.0,"TO =1:80dil, TH =1:80 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+42.0,Female,A+,increase,3802.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+28.0,Female,O+,decrease,8689.0,"TO =1:60dil, TH =1:60 dil, AH = 1:80 dil, BH = 1:80 dil",0,Negative,0
+45.0,Male,AB+,increase,3202.0,"TO =1:300dil, TH =1:300 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
+19.0,Female,A+,increase,2896.0,"TO =1:180dil, TH =1:180 dil, AH = 1:80 dil, BH = 1:80 dil",1,Positive,1
